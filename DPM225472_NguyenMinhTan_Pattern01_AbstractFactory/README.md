@@ -1,0 +1,1 @@
+![Anh ket qua](Pattern01.png)
